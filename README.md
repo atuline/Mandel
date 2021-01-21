@@ -1,4 +1,4 @@
 # Mandel
-Arduino Mandelbrot Fractals for FastLED
+Arduino Mandelbrot and Julia Fractals for FastLED.
 
 
