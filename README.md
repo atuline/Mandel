@@ -1,2 +1,4 @@
 # Mandel
-Arduino Mandelbrot Fractals
+Arduino Mandelbrot Fractals for FastLED
+
+
